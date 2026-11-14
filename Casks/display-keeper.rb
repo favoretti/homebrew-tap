@@ -1,6 +1,6 @@
 cask "display-keeper" do
-  version "0.3.1"
-  sha256 "4ee2297d9849758895baebc5708b8460e88fb6688145e5818fb9fe3ca8a9198c"
+  version "0.4.0"
+  sha256 "01aacbabb2557414a52166c4b5e1e1890b3de83ebe073350c9739a5f0e0f1e90"
 
   url "https://github.com/favoretti/display-keeper/releases/download/v#{version}/DisplayKeeper-#{version}.zip"
   name "Display Keeper"
