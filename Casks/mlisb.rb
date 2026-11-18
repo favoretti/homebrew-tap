@@ -13,7 +13,7 @@ cask "mlisb" do
   end
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "mlisb.app"
   binary "#{appdir}/mlisb.app/Contents/Resources/bin/mlisb"
