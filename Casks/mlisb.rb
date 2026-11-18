@@ -1,6 +1,6 @@
 cask "mlisb" do
-  version "0.1.4"
-  sha256 "1c88e691ac0fb48fa591d9f800aada71e71ed077f186f1ccd44f04cd2aefd706"
+  version "0.1.5"
+  sha256 "7e0f6525eb877eb904f5d0c0e108aa3c390359599702488ac7695d35690803f0"
 
   url "https://github.com/favoretti/mlisb/releases/download/v#{version}/mlisb-#{version}.zip"
   name "mlisb"
